@@ -1,2 +1,3 @@
 # Cadastro-funcionarios
- Trabalho da faculdade
+ 
+ Repositório criado para colocar o trabalho da faculdade no GitHub
